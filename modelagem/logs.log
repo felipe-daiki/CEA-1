@@ -1,0 +1,3 @@
+2026-05-06 03:03:29,556:WARNING:/workspaces/CEA-1/.venv/lib/python3.12/site-packages/flaml/__init__.py:20: UserWarning: flaml.automl is not available. Please install flaml[automl] to enable AutoML functionalities.
+  warnings.warn("flaml.automl is not available. Please install flaml[automl] to enable AutoML functionalities.")
+
